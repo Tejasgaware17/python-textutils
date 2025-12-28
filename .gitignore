@@ -8,3 +8,6 @@ venv/
 
 # editor
 .vscode/
+
+# packaging artifacts
+*.egg-info/
