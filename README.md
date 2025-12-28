@@ -80,3 +80,9 @@ Tests import the package the same way end users do — no path hacks.
 This repository demonstrates how real Python libraries are structured, executed, tested, and versioned — even at a small scale.
 
 The focus is on correctness, clarity, and professional workflow rather than unwanted complexity.
+
+---
+
+## License
+
+MIT
