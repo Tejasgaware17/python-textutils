@@ -1,4 +1,5 @@
-from textutils import normalize_whitespace, to_lowercase, word_count
+from textutils import *
+from textutils.analyzer import word_count
 
 text = "Hello     WORLD from      Python"
 cleaned = normalize_whitespace(text)

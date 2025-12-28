@@ -1,2 +1,3 @@
 from .cleaner import normalize_whitespace, to_lowercase
-from .analyzer import word_count
+
+__all__ = ["normalize_whitespace", "to_lowercase"]
